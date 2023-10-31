@@ -1,3 +1,3 @@
-mtm = "Micheal, The Moore"
+mtm = "Michael, The Moore"
 
 print(mtm)
